@@ -149,7 +149,7 @@ int main(int argc, char **argv)
         printf("Roku TV not found\n");
 
 
-        // try old address
+        // try old address, lol
 
         
         exit(0);
